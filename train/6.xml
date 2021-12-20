@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>img (101).jpg</filename>
+	<path>C:\Users\jefri\OneDrive\Documents\Pengolahan Citra Digital\Final project\images\train\img (101).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>540</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>helipad</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2</xmin>
+			<ymin>162</ymin>
+			<xmax>533</xmax>
+			<ymax>316</ymax>
+		</bndbox>
+	</object>
+</annotation>
